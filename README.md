@@ -1,4 +1,4 @@
-# Enigma_Simulater
+# Enigma_Simulator
 A working encoder - decoder code of Enigma with 3 rotors , Keys and plugboard<br />
 The plugboard has been implemented using Binary Search Trees.<br />
 The Rotors and key matching has been implemented using pointers and arrays.<br />
